@@ -31,9 +31,37 @@ This dashboard focuses on customer metrics and behavior patterns. It includes:
 ![Customer Dashboard](https://raw.githubusercontent.com/hiephoangt/Sales-Analysis-Dashboard---Tableau-Project/main/Image/Customer%20Dashboard.png)
 
 ## Key Insights
-- **Sales Trends**: Sales and profit have grown consistently over time, with some fluctuation during specific periods.
-- **Product Performance**: Certain subcategories have a significant impact on overall sales, revealing opportunities for focused marketing efforts.
-- **Customer Behavior**: A small percentage of customers contribute disproportionately to total profit, indicating potential for loyalty programs or personalized marketing.
+
+### 1. Sales Dashboard
+- **Insight 1: Sales Growth (20.36% YoY)**: 
+  - Sales saw a significant increase in 2023 compared to the previous year, growing by 20.36%. This growth is particularly pronounced in the latter half of the year, likely due to effective sales strategies, new product launches, and increased market demand. Additionally, the rise in consumption may be attributed to important events and holidays towards the end of the year, driving higher consumer spending.
+    
+- **Insight 2: Profit Growth (14.24% YoY)**: 
+  - Profit also increased but at a lower rate (14.24% YoY), suggesting that while sales are rising, profit margins might be under pressure. This could be due to rising costs or discount promotions, indicating that the business should optimize costs in lower-margin product categories.
+  
+- **Insight 3: Product Category Performance**: 
+  - Categories such as Phones, Chairs, and Hardcovers have demonstrated strong sales and profitability. In contrast, categories like Machinery and Home Appliances generate sales but incur losses in profit, possibly due to high operational costs, warranty requirements, or low competition, affecting profitability.
+  
+- **Insight 4: Sales and Profit Fluctuations Over Time**: 
+  - Trends in sales and profit exhibit significant month-to-month fluctuations, particularly in April and November. Months with higher profits may correlate with marketing campaigns, promotions, or seasonal demand, while months with declines may indicate off-peak seasons or supply chain disruptions.
+
+### 2. Customer Dashboard
+- **Insight 1: Increase in Total Customers (8.62% YoY)**: 
+  - The total number of customers increased by 8.62%, signaling positive market expansion. However, average sales per customer ($1,058) showed only a slight increase (10.80% YoY), indicating moderate growth in individual customer spending.
+  
+- **Insight 2: Distribution of Order Frequency**: 
+  - A significant number of customers (400 individuals) only placed 1 or 2 orders, suggesting that while new customer acquisition is strong, customer retention may need improvement. The business should focus on loyalty programs to encourage repeat purchases.
+  
+- **Insight 3: Top 10 Customers Contribute Significantly to Profit**: 
+  - The top 10 customers account for a substantial portion of the profit. For example, Tom Ash generated $4,599 in profit with just 2 orders, highlighting the importance of high-value customer segments. Developing personalized marketing strategies for these customers could enhance profitability.
+
+### Overall Insights
+Both dashboards illustrate steady growth in sales and customer numbers, but profit margins pose a significant challenge. Although sales and customer counts are expanding, profit is under pressure, particularly in categories like Machinery and Home Appliances. Furthermore, a small group of high-value customers significantly contributes to profit, indicating a need for the business to focus on customer retention and product cost optimization to improve overall profitability.
+
+### Summary:
+- Strong sales growth, but profit margins require attention.
+- Effective customer acquisition, but improvement in customer retention is needed.
+- Focusing on key product categories and high-value customers can lead to significant business improvement opportunities.
 
 ## Skills Demonstrated
 - **Data Preparation**: Cleaned and preprocessed multiple datasets for analysis.
