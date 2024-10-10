@@ -20,7 +20,7 @@ This dashboard provides an overview of key sales metrics and trends. The main vi
 - **Bar Chart: Sales and Profit by Subcategory**: Highlights which product subcategories contribute the most to sales and profitability.
 - **Line Chart: Sales and Profit Trend Over Time**: Displays the overall growth and fluctuation in sales and profit over a specific time period.
 
-![Sales Dashboard](Image/Sales Dashboard.png)
+![Sales Dashboard](https://raw.githubusercontent.com/hiephoangt/Sales-Analysis-Dashboard---Tableau-Project/main/Image/Sales%20Dashboard.png)
 
 ### 2. Customer Dashboard
 This dashboard focuses on customer metrics and behavior patterns. It includes:
