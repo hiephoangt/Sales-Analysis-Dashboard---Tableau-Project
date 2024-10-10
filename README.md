@@ -70,4 +70,4 @@ Both dashboards illustrate steady growth in sales and customer numbers, but prof
 - **Dashboard Design**: Focused on clarity, interactivity, and storytelling to engage stakeholders.
 
 ## How to View
-To view the dashboards, you can access the Tableau workbooks or the Tableau Public link [insert Tableau Public link if applicable].
+To view the dashboards, you can access the Tableau workbooks or the Tableau Public link [insert Tableau Public link if applicable]. Below is the link to your dashboard: [Sales Dashboard](https://github.com/hiephoangt/Sales-Analysis-Dashboard---Tableau-Project/blob/main/Sales%20Dashboard.twb).
