@@ -20,7 +20,9 @@ This dashboard provides an overview of key sales metrics and trends. The main vi
 - **Bar Chart: Sales and Profit by Subcategory**: Highlights which product subcategories contribute the most to sales and profitability.
 - **Line Chart: Sales and Profit Trend Over Time**: Displays the overall growth and fluctuation in sales and profit over a specific time period.
 
-![Sales Dashboard](https://raw.githubusercontent.com/hiephoangt/Sales-Analysis-Dashboard---Tableau-Project/main/Image/Sales%20Dashboard.png =250x)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hiephoangt/Sales-Analysis-Dashboard---Tableau-Project/main/Image/Sales%20Dashboard.png" width="500"/>
+</p>
 
 ### 2. Customer Dashboard
 This dashboard focuses on customer metrics and behavior patterns. It includes:
@@ -28,7 +30,9 @@ This dashboard focuses on customer metrics and behavior patterns. It includes:
 - **Bar Chart: Customer Distribution by Number of Orders**: Provides insights into customer segmentation based on their order frequency.
 - **Table: Top 10 Customers by Profit**: Highlights the most valuable customers in terms of profit generation.
 
-![Customer Dashboard](https://raw.githubusercontent.com/hiephoangt/Sales-Analysis-Dashboard---Tableau-Project/main/Image/Customer%20Dashboard.png =250x)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hiephoangt/Sales-Analysis-Dashboard---Tableau-Project/main/Image/Customer%20Dashboard.png" width="500"/>
+</p>
 
 ## Key Insights
 
