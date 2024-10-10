@@ -28,7 +28,7 @@ This dashboard focuses on customer metrics and behavior patterns. It includes:
 - **Bar Chart: Customer Distribution by Number of Orders**: Provides insights into customer segmentation based on their order frequency.
 - **Table: Top 10 Customers by Profit**: Highlights the most valuable customers in terms of profit generation.
 
-![Customer Dashboard](Image/Customer Dashboard.png) 
+![Customer Dashboard](https://raw.githubusercontent.com/hiephoangt/Sales-Analysis-Dashboard---Tableau-Project/main/Image/Customer%20Dashboard.png)
 
 ## Key Insights
 - **Sales Trends**: Sales and profit have grown consistently over time, with some fluctuation during specific periods.
